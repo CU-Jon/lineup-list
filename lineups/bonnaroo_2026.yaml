@@ -97,6 +97,10 @@ days:
         spotify_uri: 4tPVnr7VB15UA9TRsie3cS
       - name: PROBCAUSE
         spotify_uri: 1ZcfGrGrm9aHnUNVQz3sCY
+      - name: GANJA WHITE NIGHT
+        spotify_uri: 1a6oIpEh4DGgaqgWg5xwd3
+      - name: INZO
+        spotify_uri: 18Eu7uJEMPWwwt1QUdCglQ
   - number: 3
     date: 2026-06-13
     display_name: Day 3
@@ -239,3 +243,5 @@ days:
         spotify_uri: 1Tq0nryXkwLARcHDMIZbY6
       - name: MOTIFV
         spotify_uri: 3Q3g3xC2lDdLo3a04uK3Wp
+      - name: NAT MYERS
+        spotify_uri: 2QMlNryks9wyxBCsBGciTS
